@@ -1,7 +1,7 @@
 ---
-title: "Quarto Academic, PhD"
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-image: "files/profiles/profile1.JPG"
+title: "Tvesha Gupta"
+description-meta: "My Journey in Theater"
+image: "files/profiles/profile1.png"
 page-navigation: false
 toc: false
 #sidebar: false
