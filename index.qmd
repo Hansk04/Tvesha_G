@@ -1,6 +1,6 @@
 ---
 title: "Tvesha Gupta"
-description-meta: "My Journey in Theater"
+description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
 image: "files/profiles/profile1.png"
 page-navigation: false
 toc: false
@@ -12,17 +12,9 @@ about:
   template: trestles
   image-width: 70%
   links:
-    - icon: sun
-      text: Lab
-      href: https://www.github.com
-      target: _blank
-    - icon: globe
-      text: Uprofile
-      href: https://baruch.cuny.edu
-      target: _blank
     - icon: envelope
       text: E-mail
-      href: mailto:email@gmail.com    
+      href: mailto:tveshagupta@gmail.com    
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com
@@ -67,30 +59,37 @@ listing:
 
 :::{#hero-heading}
 
-I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
+I'm Tvesha Gupta, an undergraduate theater major at [Northwestern University](https://communication.northwestern.edu/academics/theatre/).
 
-I'm a template that you can fork to build your own website with easy adaptation and deployment.
+### Areas of interest:
+1. Director  
+1. Actor
+1. Aerial Artist
+1. Fight and Intimacy Director
+1. Dancer
 
-1. Star this repository so you can easily come back to the template  
-1. Folk this tempate and rename it to `yourgithubusername.github.io`  
-1. Update and edit `_quarto.yml` file for website setup  
-1. Update and add contents to `/posts`, `teaching.qmd`, `projects.yml`, and `people.qmd` and `/people` as needed.
-1. [Render and preview](https://quarto.org/docs/websites/) your website and [publish](https://quarto.org/docs/publishing/github-pages.html) it to your GitHub.
-1. Polish and fix any issues  
-1. Enjoy your website!
 
 ## Experience
 
-- Researcher, Univerisity
+**Assistant Director**  
+*Cinderella, The Dolphin Show, Northwestern University — 2025*
+
+**Fight and Intimacy Director**  
+*Cinderella, The Dolphin Show, Northwestern University — 2025*<br>
+*Achilles and Patroculus, Wave's D-Fest, Northwestern University — 2025*
+
+**Actor**  
+*Lizzy Bennet, Pride and Prejudice, The Chicago Academy for the Arts — 2023*<br>
+*Alice, Alice in Wonderland, The Chicago Academy for the Arts — 2021*
 
 ## Education
 
-- PhD, Univerisity
-
+- Pursuing a BA in Theater, Northwestern University - 2024-2028
+- Theater Concentration at The Chicago Academy for the Arts - 2020-2024
 :::
 
 ## Recent Posts
-Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
+Check out the latest &nbsp;[Plays](posts.qmd#category=paper)&nbsp;
 
 :::{#recent-posts}
 :::

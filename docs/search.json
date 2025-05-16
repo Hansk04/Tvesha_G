@@ -95,28 +95,28 @@
     "href": "index.html",
     "title": "Tvesha Gupta",
     "section": "",
-    "text": "Lab\n  \n  \n    \n     Uprofile\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n  \n      ORCID\n  \n  \n      Web of Science\n  \n  \n      Scopus\n  \n  \n      Google Scholar\n  \n\n  \n  \nI’m a Quarto Academeic Website Template adapted by Dr. Gang He.\nI’m a template that you can fork to build your own website with easy adaptation and deployment.\n\nStar this repository so you can easily come back to the template\n\nFolk this tempate and rename it to yourgithubusername.github.io\n\nUpdate and edit _quarto.yml file for website setup\n\nUpdate and add contents to /posts, teaching.qmd, projects.yml, and people.qmd and /people as needed.\nRender and preview your website and publish it to your GitHub.\nPolish and fix any issues\n\nEnjoy your website!\n\n\n\n\nResearcher, Univerisity\n\n\n\n\n\nPhD, Univerisity"
+    "text": "E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n  \n      ORCID\n  \n  \n      Web of Science\n  \n  \n      Scopus\n  \n  \n      Google Scholar\n  \n\n  \n  \nI’m Tvesha Gupta, an undergraduate theater major at Northwestern University.\n\n\n\nDirector\n\nActor\nAerial Artist\nFight and Intimacy Director\nDancer\n\n\n\n\nAssistant Director\nCinderella, The Dolphin Show, Northwestern University — 2025\nFight and Intimacy Director\nCinderella, The Dolphin Show, Northwestern University — 2025 Achilles and Patroculus, Wave’s D-Fest, Northwestern University — 2025\nActor\nLizzy Bennet, Pride and Prejudice, The Chicago Academy for the Arts — 2023 Alice, Alice in Wonderland, The Chicago Academy for the Arts — 2021\n\n\n\n\nPursuing a BA in Theater, Northwestern University - 2024-2028\nTheater Concentration at The Chicago Academy for the Arts - 2020-2024"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Tvesha Gupta",
     "section": "",
-    "text": "Researcher, Univerisity"
+    "text": "Assistant Director\nCinderella, The Dolphin Show, Northwestern University — 2025\nFight and Intimacy Director\nCinderella, The Dolphin Show, Northwestern University — 2025 Achilles and Patroculus, Wave’s D-Fest, Northwestern University — 2025\nActor\nLizzy Bennet, Pride and Prejudice, The Chicago Academy for the Arts — 2023 Alice, Alice in Wonderland, The Chicago Academy for the Arts — 2021"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Tvesha Gupta",
     "section": "",
-    "text": "PhD, Univerisity"
+    "text": "Pursuing a BA in Theater, Northwestern University - 2024-2028\nTheater Concentration at The Chicago Academy for the Arts - 2020-2024"
   },
   {
     "objectID": "index.html#recent-posts",
     "href": "index.html#recent-posts",
     "title": "Tvesha Gupta",
     "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nAll Posts »"
+    "text": "Recent Posts\nCheck out the latest  Plays \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nAll Posts »"
   },
   {
     "objectID": "people.html",
@@ -138,5 +138,12 @@
     "title": "People",
     "section": "Alumni",
     "text": "Alumni\n\n\n   \n     \n     \n       Order By\n       Default\n         \n        \n         \n          Name\n        \n         \n          Role\n        \n         \n          Started\n        \n         \n          Ended\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n \n\n\nName\n\n\nRole\n\n\nStarted\n\n\nEnded\n\n\n\n\n\n\n\n\n\nStudent Name\n\n\nPhD Student\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\nPI Name\n\n\nPI\n\n\n \n\n\n \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#areas-of-interest",
+    "href": "index.html#areas-of-interest",
+    "title": "Tvesha Gupta",
+    "section": "",
+    "text": "Director\n\nActor\nAerial Artist\nFight and Intimacy Director\nDancer"
   }
 ]
